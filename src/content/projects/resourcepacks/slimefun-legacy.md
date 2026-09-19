@@ -14,7 +14,7 @@ versions:
       "26.2", 
       "26.3"
     ]
-    file: https://github.com/surgamingoninsulin/slimefun-legacy-assets/slimefun-legacy-assets.zip
+    file: https://github.com/surgamingoninsulin/Bookshelf/releases/download/R1/SlimefunLegacyAssets-1.0.0.zip
     date: 2026-09-01
     changelog: Initial release.
 ---
