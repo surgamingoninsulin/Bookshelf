@@ -1,0 +1,32 @@
+---
+import Base from '../layouts/Base.astro';
+import { site, url } from '../data/site';
+---
+<Base title="About">
+  <div class="container section" style="max-width:860px">
+    <div class="card about">
+      <img class="about-img" src={url('avatar.png')} alt="SurGamingOnInsulin's GitHub avatar" width="200" height="200" />
+      <div class="prose">
+        <h1 style="margin-top:0">About me</h1>
+        <p><strong>Sur Gaming On Insulin</strong> · Netherlands</p>
+        <p>
+          I make Minecraft resource packs, data packs, plugins and mods, and host them here for free.
+          Everything on {site.name} is built and maintained by me.
+        </p>
+        <div class="actions">
+          <a class="btn primary" href={site.github}>GitHub profile</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="card prose" style="margin-top:1rem">
+      <h2 style="margin-top:0">Installing a project</h2>
+      <ul>
+        <li><strong>Resource packs:</strong> download the <code>.zip</code> (don't unzip), put it in <code>.minecraft/resourcepacks</code>, enable it under Options → Resource Packs.</li>
+        <li><strong>Data packs:</strong> put the <code>.zip</code> in <code>saves/&lt;world&gt;/datapacks</code>, then run <code>/reload</code>.</li>
+        <li><strong>Plugins:</strong> put the <code>.jar</code> in your server's <code>plugins</code> folder and restart.</li>
+        <li><strong>Mods:</strong> install the matching loader (Fabric, Forge, NeoForge or Quilt), then put the <code>.jar</code> in <code>.minecraft/mods</code>.</li>
+      </ul>
+    </div>
+  </div>
+</Base>
