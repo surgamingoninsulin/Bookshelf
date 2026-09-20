@@ -2,7 +2,7 @@
 title: MoreAnimalVariants
 summary: A Minecraft More Animal Variants resourcepack.
 icon: downloads/resourcepacks/moreanimalvarients/icon.png
-categories: [Vanilla-like, resourcepac0k, datapack, both]
+categories: [Vanilla-like, resourcepacks, datapacks, both]
 alsoIn: [datapacks]
 resolution: 16x
 featured: true
@@ -15,8 +15,8 @@ versions:
       "26.2", 
       "26.3"
     ]
-    file: https://github.com/surgamingoninsulin/Bookshelf/releases/download/RD1/MoreAnimalVarients.zip
-    date: 2026-09-01
+    file: https://github.com/surgamingoninsulin/Bookshelf/releases/download/RD1/MoreAnimalVarients-1.0.0.zip
+    date: 2026-09-20
     changelog: Initial release.
 ---
 

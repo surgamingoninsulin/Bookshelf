@@ -2,7 +2,7 @@
 title: Slimefun Legacy Assets
 summary: A Minecraft Slimefun Legacy resourpack.
 icon: downloads/resourcepacks/slimefun-legacy/icon.png
-categories: [Vanilla-like, Utility]
+categories: [Vanilla-like, resourcepacks]
 resolution: 16x
 featured: true
 links:
@@ -15,7 +15,7 @@ versions:
       "26.3"
     ]
     file: https://github.com/surgamingoninsulin/Bookshelf/releases/download/R1/SlimefunLegacyAssets-1.0.0.zip
-    date: 2026-09-01
+    date: 2026-09-20
     changelog: Initial release.
 ---
 

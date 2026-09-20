@@ -2,8 +2,8 @@
 title: Fruit Trees
 summary: A Minecraft Fruit Trees resourcepack & datapack.
 icon: downloads/datapacks/fruit-trees/icon.png
-categories: [Vanilla-like, resourcepack, datapack, datapack, both]
-alsoIn: [datapacks]
+categories: [Vanilla-like, resourcepacks, datapacks, both]
+alsoIn: [resourcepacks]
 resolution: 16x
 featured: true
 links:
@@ -16,7 +16,7 @@ versions:
       "26.3"
     ]
     file: https://github.com/surgamingoninsulin/Bookshelf/releases/download/RD1/FruitTrees-1.0.0.zip
-    date: 2026-09-01
+    date: 2026-09-20
     changelog: Initial release.
 ---
 

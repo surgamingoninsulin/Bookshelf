@@ -2,7 +2,7 @@
 title: SF-DyedBackPacks
 summary: A Minecraft Slimefun Legacy plugin.
 icon: downloads/plugins/sf-dyedbackpacks/icon.png
-categories: [Vanilla-like, Plugin, SlimefunLegacy]
+categories: [Vanilla-like, Plugins, SlimefunLegacy]
 featured: true
 links:
   source: 
@@ -14,7 +14,7 @@ versions:
       "26.3"
     ]
     file: https://github.com/surgamingoninsulin/Bookshelf/releases/download/p1/SF_DyedBackPacks-1.0.0.jar
-    date: 2026-09-01
+    date: 2026-09-20
     changelog: Initial release.
 ---
 
