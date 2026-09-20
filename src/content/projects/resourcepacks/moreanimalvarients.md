@@ -1,8 +1,8 @@
 ---
 title: MoreAnimalVariants
 summary: A Minecraft More Animal Variants resourcepack.
-icon: downloads/resourcepacks/MoreAnimalVariants/icon.png
-categories: [Vanilla-like, resourcepack]
+icon: downloads/resourcepacks/moreanimalvarients/icon.png
+categories: [Vanilla-like, resourcepac0k, datapack, both]
 alsoIn: [datapacks]
 resolution: 16x
 featured: true

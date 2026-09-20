@@ -1,7 +1,7 @@
 ---
 title: SF-DyedBackPacks
 summary: A Minecraft Slimefun Legacy plugin.
-icon: downloads/plugins/sf-dyedbackpacks/slimefun-legacy-addon.png
+icon: downloads/plugins/sf-dyedbackpacks/icon.png
 categories: [Vanilla-like, Plugin, SlimefunLegacy]
 featured: true
 links:

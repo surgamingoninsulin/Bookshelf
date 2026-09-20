@@ -1,7 +1,7 @@
 ---
 title: SF-SimpleUtils
 summary: A Minecraft Slimefun Legacy plugin.
-icon: downloads/plugins/sf-simpleutils/slimefun-legacy-addon.png
+icon: downloads/plugins/sf-simpleutils/icon.png
 categories: [Vanilla-like, Plugin, SlimefunLegacy]
 featured: true
 links:
