@@ -8,7 +8,7 @@ featured: true
 links:
   source: 
 versions:
-  - version: 2.0.0
+  - version: 1.0.0
     mc: [
       "26.2"
     ]
@@ -37,12 +37,11 @@ they work nicly together.
 
 
 <div align="center">
-
 <h3>Changelogs</h3>
-
-<table style="border-collapse: collapse; width: 100%; max-width: 1000px; text-align: left; font-family: sans-serif; border: 1px solid #30363d;">
+<table style="border-collapse: collapse; width: 100%; max-width: 55%; text-align: left; font-family: sans-serif; border: 1px solid #30363d;">
   <thead>
     <tr style="background-color: #44ee; color: #fff; border-bottom: 2px solid #30363d;">
+	  <td style="padding: 10px 14px;">Downloadable</td>
       <th style="padding: 10px 14px;">Name</th>
       <th style="padding: 10px 14px; text-align: center;">Version</th>
       <th style="padding: 10px 14px;">Added</th>
@@ -52,7 +51,9 @@ they work nicly together.
     </tr>
   </thead>
   <tbody>
+	<!-- Did i trigger something -->
     <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 10px 14px; font-weight: 600;">YES</td>
       <td style="padding: 10px 14px; font-weight: 600;">Did i trigger something?</td>
       <td style="padding: 10px 14px; text-align: center;"><code>2.0.1</code></td>
       <td style="padding: 10px 14px; color: #8b949e;">—</td>
@@ -60,8 +61,11 @@ they work nicly together.
       <td style="padding: 10px 14px;"><code>/trigger mace_target</code></td>
       <td style="padding: 10px 14px; color: #8b949e;">—</td>
     </tr>
+	
+	<!-- We got dialogs -->
     <tr style="border-bottom: 1px solid #21262d;">
-      <td style="padding: 10px 14px; font-weight: 600;">We got dialogs</td>
+      <td style="padding: 10px 14px; font-weight: 600;">NO</td>
+	  <td style="padding: 10px 14px; font-weight: 600;">We got dialogs</td>
       <td style="padding: 10px 14px; text-align: center;"><code>2.0.0</code></td>
       <td style="padding: 10px 14px;">
         • Dialogs for selecting targets etc.<br>
@@ -73,7 +77,10 @@ they work nicly together.
         Due to display text positioning above the healthbar/hungerbar: IF using <b>Vanilla Refresh</b>, run <code>/function vanilla_refresh:settings</code> and disable health &amp; entity info for animals (conflicts with this datapack).
       </td>
     </tr>
-    <tr>
+    
+	<!-- initial release -->
+	<tr>
+	 <td style="padding: 10px 14px; font-weight: 600;">YES</td>
       <td style="padding: 10px 14px; font-weight: 600;">Initial release</td>
       <td style="padding: 10px 14px; text-align: center;"><code>1.0.0</code></td>
       <td style="padding: 10px 14px;">2 minute cooldown for the mace</td>
@@ -83,5 +90,4 @@ they work nicly together.
     </tr>
   </tbody>
 </table>
-
 </div>
