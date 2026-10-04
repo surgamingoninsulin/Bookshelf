@@ -8,14 +8,14 @@ featured: true
 links:
   source: 
 versions:
-  - versiob: 2.0.0
+  - version: 2.0.0
     mc: [
-	  "26.2"
-	]
-	file: https://github.com/surgamingoninsulin/gamefiles/releases/download/26.2-1.0.0/Mace.Cooldown.Datapack.zip
-	date: 2026-07-23
-	changelog: initial release
-	
+      "26.2"
+    ]
+    file: https://github.com/surgamingoninsulin/gamefiles/releases/download/26.2-1.0.0/Mace.Cooldown.Datapack.zip
+    date: 2026-07-23
+    changelog: initial release
+
   - version: 2.0.1
     mc: [
       "26.2", 
