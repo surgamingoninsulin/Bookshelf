@@ -33,18 +33,55 @@ also try my resourcepack for a **3D Mace Resourcepack** see [link](https://surga
 they work nicly together.
 
 
-Changelog:<br>
-v2.0.1 - Did i trigger something?<br>
-fixed a bug with /trigger mace_target iwch no longer existed<br>
-<br>
-v2.0.0 - We got dialogs<br>
-Added dialog for choosing targets suggested by [aussiegaminelitetv2](https://www.reddit.com/user/aussiegaminelitetv2/)<br>
-Added overlay_26_3 for mc 26.3 support<br>
-Updated for support mc version upto 26.3<br>
-<br>
-v1.0.0 - initial release.<br>
-the idea of creating the datapack<br>
-from [aussiegaminelitetv2](https://www.reddit.com/user/aussiegaminelitetv2/):
-[Reddit Post](https://www.reddit.com/r/Minecraft/comments/1v0hkbc/how_can_i_add_a_cooldown_to_the_mace/)
-aussiegaminelitetv2 wanted a  2 minute cooldown to the mace, using a datapack.<br>
-aussiegaminelitetv2 has tried using google, but it recommended the use of /itemcooldown command, a command that does not exist.<br>
+
+
+
+<div align="center">
+
+<h3>Changelogs</h3>
+
+<table style="border-collapse: collapse; width: 100%; max-width: 1000px; text-align: left; font-family: sans-serif; border: 1px solid #30363d;">
+  <thead>
+    <tr style="background-color: #44ee; color: #fff; border-bottom: 2px solid #30363d;">
+      <th style="padding: 10px 14px;">Name</th>
+      <th style="padding: 10px 14px; text-align: center;">Version</th>
+      <th style="padding: 10px 14px;">Added</th>
+      <th style="padding: 10px 14px;">Changed</th>
+      <th style="padding: 10px 14px;">Removed</th>
+      <th style="padding: 10px 14px;">Note</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 10px 14px; font-weight: 600;">Did i trigger something?</td>
+      <td style="padding: 10px 14px; text-align: center;"><code>2.0.1</code></td>
+      <td style="padding: 10px 14px; color: #8b949e;">—</td>
+      <td style="padding: 10px 14px; color: #8b949e;">—</td>
+      <td style="padding: 10px 14px;"><code>/trigger mace_target</code></td>
+      <td style="padding: 10px 14px; color: #8b949e;">—</td>
+    </tr>
+    <tr style="border-bottom: 1px solid #21262d;">
+      <td style="padding: 10px 14px; font-weight: 600;">We got dialogs</td>
+      <td style="padding: 10px 14px; text-align: center;"><code>2.0.0</code></td>
+      <td style="padding: 10px 14px;">
+        • Dialogs for selecting targets etc.<br>
+        • Added support for 26.3 through <code>overlay_26_3</code>
+      </td>
+      <td style="padding: 10px 14px;">Trigger menu for dialogs</td>
+      <td style="padding: 10px 14px; color: #8b949e;">—</td>
+      <td style="padding: 10px 14px; font-size: 0.9em; line-height: 1.4;">
+        Due to display text positioning above the healthbar/hungerbar: IF using <b>Vanilla Refresh</b>, run <code>/function vanilla_refresh:settings</code> and disable health &amp; entity info for animals (conflicts with this datapack).
+      </td>
+    </tr>
+    <tr>
+      <td style="padding: 10px 14px; font-weight: 600;">Initial release</td>
+      <td style="padding: 10px 14px; text-align: center;"><code>1.0.0</code></td>
+      <td style="padding: 10px 14px;">2 minute cooldown for the mace</td>
+      <td style="padding: 10px 14px; color: #8b949e;">—</td>
+      <td style="padding: 10px 14px; color: #8b949e;">—</td>
+      <td style="padding: 10px 14px; color: #8b949e;">—</td>
+    </tr>
+  </tbody>
+</table>
+
+</div>
