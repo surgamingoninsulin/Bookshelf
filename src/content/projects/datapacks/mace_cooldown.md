@@ -8,6 +8,14 @@ featured: true
 links:
   source: 
 versions:
+  - versiob: 2.0.0
+    mc: [
+	  "26.2"
+	]
+	file: https://github.com/surgamingoninsulin/gamefiles/releases/download/26.2-1.0.0/Mace.Cooldown.Datapack.zip
+	date: 2026-07-23
+	changelog: initial release
+	
   - version: 2.0.1
     mc: [
       "26.2", 
@@ -35,3 +43,8 @@ Added overlay_26_3 for mc 26.3 support<br>
 Updated for support mc version upto 26.3<br>
 <br>
 v1.0.0 - initial release.<br>
+the idea of creating the datapack<br>
+from [aussiegaminelitetv2](https://www.reddit.com/user/aussiegaminelitetv2/):
+[Reddit Post](https://www.reddit.com/r/Minecraft/comments/1v0hkbc/how_can_i_add_a_cooldown_to_the_mace/)
+aussiegaminelitetv2 wanted a  2 minute cooldown to the mace, using a datapack.<br>
+aussiegaminelitetv2 has tried using google, but it recommended the use of /itemcooldown command, a command that does not exist.<br>
