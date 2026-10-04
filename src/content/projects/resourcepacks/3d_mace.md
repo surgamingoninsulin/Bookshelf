@@ -21,5 +21,5 @@ versions:
 ## About
 
 This is a **Resourcepack** that adds a 3D mace to mincraft.<br>
-also try my datapack **Mace Cooldown** link is here [link](https://surgamingoninsulin,gihub.io/Bookshelf/resourcepacks/mace_cooldown/)<br>
+also try my datapack **Mace Cooldown** link is here [link](https://surgamingoninsulin.github.io/Bookshelf/datapacks/mace_cooldown/)<br>
 they work nicly together.
