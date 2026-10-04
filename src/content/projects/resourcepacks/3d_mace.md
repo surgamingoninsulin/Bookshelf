@@ -1,7 +1,7 @@
 ---
-title: 3d_mace_resourcepack
-summary: A Minecraft Mace resourcepack.
-icon: downloads/datapacks/3d_mace_resourcepack/icon.png
+title: 3D Mace
+summary: A Minecraft 3D Mace resourcepack.
+icon: downloads/resourcepacks/3d_mace/icon.png
 categories: [Vanilla-like, resourcepacks, 3D]
 resolution: 16x
 featured: true
