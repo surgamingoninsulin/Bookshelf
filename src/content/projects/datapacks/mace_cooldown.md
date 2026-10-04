@@ -21,6 +21,6 @@ versions:
 ## About
 
 This is a **Datapack** that adds more a Mace cooldown to Minecraft.<br>
-also try my resourcepack for a **3D Mace Resourcepack** see [link](https://surgamingoninsulin.gihub.io/Bookshelf/resourcepacks/3d_mace/)<br>
+also try my resourcepack for a **3D Mace Resourcepack** see [link](https://surgamingoninsulin.github.io/Bookshelf/resourcepacks/3d_mace/)<br>
 they work nicly together.
 
