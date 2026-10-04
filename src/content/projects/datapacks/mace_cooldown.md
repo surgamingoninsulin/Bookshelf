@@ -1,7 +1,7 @@
 ---
-title: Fruit Trees
-summary: A Minecraft Fruit Trees resourcepack & datapack.
-icon: downloads/datapacks/fruit-trees/icon.png
+title: Mace Cooldown
+summary: A Minecraft A Mace Cooldown Machanic datapack.
+icon: downloads/datapacks/mace_cooldown/icon.png
 categories: [Vanilla-like, resourcepacks, cooldown, mechanics]
 resolution: 16x
 featured: true
